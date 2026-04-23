@@ -1,8 +1,8 @@
 [English](README.md) | **中文** | [在线文档](https://zsibot.github.io/zsibot_sdk)
 
-# ZsiBot SDK
+# GENISOM L1 SDK
 
-欢迎使用 ZsiBot SDK！本仓库包含 ZsiBot 机器人平台（包括 ZSL-1 型号）的官方软件开发套件。它提供了一整套全面的工具、库和文档，旨在帮助您为机器人开发高级应用程序。
+欢迎使用 GENISOM L1 SDK！本仓库包含 GENISOM L1 “钢镚” 机器人平台的官方软件开发套件。它提供了一整套全面的工具、库和文档，旨在帮助您为机器人开发高级应用程序。
 
 ## 🌟 功能特性
 
