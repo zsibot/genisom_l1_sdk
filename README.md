@@ -1,12 +1,12 @@
 **English** | [中文](README_zh.md) | [online docs](https://zsibot.github.io/zsibot_sdk/en)
 
-# GENISOM-AI SDK
+# GENISOM L1 SDK
 
-Welcome to the GENISOM-AI SDK! This repository contains the official Software Development Kit for GENISOM-AI robotic platforms, including the ZSL-1 model. It provides a comprehensive set of tools, libraries, and documentation to help you develop advanced applications for your robot.
+Welcome to the GENISOM L1 SDK! This repository contains the official Software Development Kit for GENISOM L1 “钢镚” quadruped robotic platforms. It provides a comprehensive set of tools, libraries, and documentation to help you develop advanced applications for your GENISOM L1 robot.
 
 ## 🌟 Features
 
-The SDK offers both high-level and low-level control interfaces, giving you flexible and powerful ways to interact with your robot.
+The SDK offers both high-level and low-level control interfaces, giving you flexible and powerful ways to interact with your GENISOM L1 robot.
 
 - **High-Level Control**: Simple commands for complex actions.
   - `standUp()` / `lieDown()`: Basic stance control.
