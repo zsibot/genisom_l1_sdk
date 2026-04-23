@@ -1,8 +1,8 @@
 **English** | [中文](README_zh.md) | [online docs](https://zsibot.github.io/zsibot_sdk/en)
 
-# ZsiBot SDK
+# GENISOM-AI SDK
 
-Welcome to the ZsiBot SDK! This repository contains the official Software Development Kit for ZsiBot robotic platforms, including the ZSL-1 model. It provides a comprehensive set of tools, libraries, and documentation to help you develop advanced applications for your robot.
+Welcome to the GENISOM-AI SDK! This repository contains the official Software Development Kit for GENISOM-AI robotic platforms, including the ZSL-1 model. It provides a comprehensive set of tools, libraries, and documentation to help you develop advanced applications for your robot.
 
 ## 🌟 Features
 
