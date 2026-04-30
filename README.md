@@ -1,4 +1,4 @@
-**English** | [中文](README_zh.md) | [online docs](https://zsibot.github.io/zsibot_sdk/en)
+**English** | [中文](README_zh.md) | [online docs](https://zsibot.github.io/genisom_l1_sdk/)
 
 # GENISOM L1 SDK
 
